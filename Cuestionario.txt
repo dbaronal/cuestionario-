@@ -1,17 +1,17 @@
 1. En tus palabras, ¿Qué es internet?
-R:
+R: Para mi, internet es en donde puedes subir y encontrar todo lo que quieras.
 2. Describe los medios físicos y de propagación de ondas por los que se transimte la información en internet.
 R:Cable de par trenzado. Cable coaxial. Fibra óptica. Radiofrecuencias. Microondas. Infrarrojos. Símplex. Semi-dúplex.
 3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-R:
+R: El DNS (Sistema de Nombres de Dominio) es el encargado de “traducir” los números de una dirección IP en un nombre de dominio. Es decir que convierten el dominio escrito en el navegador y dirigen el acceso hacia el servidor al que apunta el dominio.
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 R: Cuando usas Spotify, usas sus servidores (en donde está toda su librería de canciones). Entonces, cuando reproduces una canción, la reproduces desde su servidor.
 5. Describe los protocolos que existen en internet, en específico HTTP y HTML
-R:
+R:HTTP es un protocolo de acceso para las páginas web a través de Internet. HTTP son las siglas para Hypertext Transfer Protocol que se traduce al español como el “protocolo de transferencia de hipertextos”. ... El HTML es el lenguaje utilizado para codificar la información en los recursos web.
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas
 R:La encriptación es una forma de asegurar tus documentos en digitales. De cierta forma, les pones un "candado" y con LA LLAVE puedes volver a abrir el documento, revelando su contenido.
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-R:
+R: Creando una contraseña segura, no meterte a paginas inseguras, no descargar aplicaciones sospechosas y tener mucho cuidado al navegar en internet.
 8. ¿Cómo funciona la búsqueda de Google?
 R:¿Cómo funciona el algoritmo de búsqueda de Google?
 El objetivo de los algoritmos de Google es proporcionar a cada intención de búsqueda la respuesta más adecuada. Es decir, ofrecer al usuario el resultado que mejor se ajusta a lo que busca, y que, en definitiva, mejor experiencia le puede aportar.
